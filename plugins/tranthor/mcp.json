@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tranthor": {
+      "type": "http",
+      "url": "https://api.tranthor.com/mcp"
+    }
+  }
+}
