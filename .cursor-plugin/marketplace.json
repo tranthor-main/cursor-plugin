@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Work in a Tranthor workspace from Cursor and Grok Bot: read segments, journeys, broadcasts, templates and results, save drafts, and send with your two confirmations.",
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   "plugins": [
     {
